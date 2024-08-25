@@ -1,5 +1,5 @@
 # Solana-on-chain-programs-native-vs-anchor
-Comparison of core technical concepts for anchor and native Solana on-chain program
+Comparison of core technical concepts for Anchor and native Solana on-chain programs.
 
 [![art-2-1-01.png](https://i.postimg.cc/5NjZvS49/art-2-1-01.png)](https://postimg.cc/JGV6CJHS)
 
